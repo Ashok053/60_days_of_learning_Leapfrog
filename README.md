@@ -3,4 +3,4 @@
  
 | **Day** | **update**| **Resources** | **remarks** |
 | ------- | ----------| --------------| ----------- |
-| Day1    | learn and revise concepts of DL, NN, loss functions | https://youtu.be/alfdI7S6wCY?si=h_3pGtG36fvXbVWI ,https://youtu.be/fHF22Wxuyw4?si=Stn6jDECeguKyb7e | https://youtu.be/fHF22Wxuyw4?si=Stn6jDECeguKyb7e   |
+| Day1    | learn and revise concepts of DL, NN, loss functions | https://youtu.be/alfdI7S6wCY?si=h_3pGtG36fvXbVWI ,https://youtu.be/fHF22Wxuyw4?si=Stn6jDECeguKyb7e | https://x.com/ashoklamsal07/status/1929202194781204988   |
